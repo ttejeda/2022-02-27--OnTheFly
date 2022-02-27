@@ -1,0 +1,20 @@
+{
+  "name": "2022-02-27--onthefly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttejeda/2022-02-27--OnTheFly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttejeda/2022-02-27--OnTheFly/issues"
+  },
+  "homepage": "https://github.com/ttejeda/2022-02-27--OnTheFly#readme"
+}
